@@ -16,7 +16,7 @@
   </li>
   <li>
     <strong>Haskell:</strong> 
-    <a href="https://github.com/ShuSeks/IrisAPI">IrisAPI</a> 
+    <a href="https://github.com/C0dWiz/IrisAPI">IrisAPI</a> 
     (<a href="https://t.me/ShuSeks">@ShuSeks</a> в Telegram)
   </li>
   <li>
