@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Библиотеки для работы с Iris API</title>
 </head>
 <body>
 
